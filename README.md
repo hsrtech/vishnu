@@ -1,2 +1,2 @@
-# vishnu
-The Creator - An Open Source WordPress Theme
+# Vishnu - The Creator
+An Open Source WordPress Theme
